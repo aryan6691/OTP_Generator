@@ -3,7 +3,8 @@ package projects;
 import java.util.Random;
 import java.util.*;
 
-public class OTPGenerator {
+public class OTPGenerator
+{
 	static char[] OTP(int len) {
 		System.out.println("Generation One-Time-Password(OTP):");
 		System.out.println("OTP generated is:");
